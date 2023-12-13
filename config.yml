@@ -1,9 +1,9 @@
 namespaces:
 - o
-- de
 - es
-- .de
 - .es
+- de
+- .de
 - github: .
   name: hannes
 language: de
