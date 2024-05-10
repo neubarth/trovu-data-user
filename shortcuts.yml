@@ -65,11 +65,11 @@ ir 0:
   url: http://www.inforadio.de/livestream/index.html
   title: Inforadio
 jira 0:
-  url: https://jira.dkb.ag/issues/?filter=34600
-  title: JIRA open tickets created by me
+  url: https://reqease.gema.de/atlassian-jira/secure/RapidBoard.jspa?rapidView=53&projectKey=MARS
+  title: JIRA board
 jira 1:
-  url: https://jira.dkb.ag/browse/TESS-<ticket>
-  title: JIRA
+  url: https://reqease.gema.de/atlassian-jira/browse/MARS-<ticket>
+  title: JIRA ticket
 met 0:
   url: http://marion-etten-theater.de/
   title: MET
