@@ -14,7 +14,8 @@ ckk 1:
   url: https://www.chefkoch.de/mein-kochbuch/suchen/<query>
   title: Chefkoch Mein Kochbuch
 conf 1:
-  url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch%20~%20%22<query>%22
+  url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch+~+%22<query>%22+and+space+%3D+%22GT%22&queryString=<query>
+#  url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch%20~%20%22<query>%22  
 dlf 0:
   url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
   title: Deutschlandfunk
