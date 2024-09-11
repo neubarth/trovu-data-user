@@ -61,6 +61,9 @@ he 0:
 he 1:
   url: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/<code>
   title: HTTP error codes
+immoscout 0:
+  url: https://www.immobilienscout24.de/meinkonto/dashboard/
+  title: Immoscout Dashboard
 intra 1:
   url: https://o365adessogroup.sharepoint.com/_layouts/15/search.aspx/?q=<query>
   title: Intranet
