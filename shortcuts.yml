@@ -11,8 +11,8 @@ bsr 0:
   url: https://www.bsr.de/abfuhrkalender-20520.php
   title: BSR Abfuhrkalender
 ckk 1:
-  url: https://www.chefkoch.de/mein-kochbuch/suchen/<query>
-  title: Chefkoch Mein Kochbuch
+  url: https://www.chefkoch.de/mein-kochbuch/
+  title: "Chefkoch Mein Kochbuch Suche funktioniert nicht mehr :-("
 conf 1:
   url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch+~+%22<query>%22+and+space+%3D+%22GT%22&queryString=<query>
 #  url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch%20~%20%22<query>%22  
