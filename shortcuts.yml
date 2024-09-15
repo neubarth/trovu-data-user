@@ -10,7 +10,7 @@ b2 0:
 bsr 0:
   url: https://www.bsr.de/abfuhrkalender-20520.php
   title: BSR Abfuhrkalender
-ckk 1:
+ckk 0:
   url: https://www.chefkoch.de/mein-kochbuch/
   title: "Chefkoch Mein Kochbuch Suche funktioniert nicht mehr :-("
 conf 1:
