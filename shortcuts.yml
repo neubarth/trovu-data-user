@@ -14,8 +14,7 @@ ckk 0:
   url: https://www.chefkoch.de/mein-kochbuch/
   title: "Chefkoch Mein Kochbuch Suche funktioniert nicht mehr :-("
 conf 1:
-  url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch+~+%22<query>%22+and+space+%3D+%22GT%22&queryString=<query>
-#  url: https://wissen.gema.de/confluence/dosearchsite.action?cql=siteSearch%20~%20%22<query>%22  
+  url: https://gema.atlassian.net/wiki/search?text=<query>&spaces=GT
 dlf 0:
   url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
   title: Deutschlandfunk
@@ -71,10 +70,10 @@ ir 0:
   url: http://www.inforadio.de/livestream/index.html
   title: Inforadio
 jira 0:
-  url: https://reqease.gema.de/atlassian-jira/secure/RapidBoard.jspa?rapidView=53&projectKey=MARS
+  url: https://gema.atlassian.net/jira/software/c/projects/MARS/boards/236
   title: JIRA board
 jira 1:
-  url: https://reqease.gema.de/atlassian-jira/browse/MARS-<ticket>
+  url: https://gema.atlassian.net/browse/MARS-<ticket>
   title: JIRA ticket
 met 0:
   url: http://marion-etten-theater.de/
