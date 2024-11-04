@@ -70,7 +70,7 @@ ir 0:
   url: http://www.inforadio.de/livestream/index.html
   title: Inforadio
 jira 0:
-  url: https://gema.atlassian.net/jira/software/c/projects/MARS/boards/236
+  url: https://gema.atlassian.net/jira/software/c/projects/MAVI/boards/584
   title: JIRA board
 jira 1:
   url: https://gema.atlassian.net/browse/MARS-<ticket>
