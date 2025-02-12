@@ -102,6 +102,12 @@ kaufland 1:
   - shopping
   examples:
     spiele: Suche auf Kaufland.de nach "spiele"
+mars 1:
+  url: https://gema.atlassian.net/browse/MARS-<ticket>
+  title: MARS ticket
+maui 1:
+  url: https://gema.atlassian.net/browse/MAUI-<ticket>
+  title: MAUI ticket
 pgp 1:
   url: http://keyserver.ubuntu.com/pks/lookup?search=<query>&fingerprint=on&op=index
   title: PGP key search
