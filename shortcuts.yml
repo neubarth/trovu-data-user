@@ -120,6 +120,9 @@ spring 1:
 t 0:
   url: https://trovu.net/#github=neubarth
   title: Trovu
+tf 0:
+  url: https://registry.terraform.io/
+  title: Terraform Registry
 thr 0:
   url: https://web.threema.ch/
   title: Threema
