@@ -14,7 +14,7 @@ ckk 0:
   url: https://www.chefkoch.de/mein-kochbuch/
   title: "Chefkoch Mein Kochbuch Suche funktioniert nicht mehr :-("
 conf 1:
-  url: https://gema.atlassian.net/wiki/search?text=<query>&spaces=GT
+  url: https://customer.atlassian.net/wiki/search?text=<query>&spaces=GT
 dlf 0:
   url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
   title: Deutschlandfunk
@@ -69,12 +69,6 @@ intra 1:
 ir 0:
   url: http://www.inforadio.de/livestream/index.html
   title: Inforadio
-jira 0:
-  url: https://gema.atlassian.net/jira/software/c/projects/MAVI/boards/584
-  title: JIRA board
-jira 1:
-  url: https://gema.atlassian.net/browse/MARS-<ticket>
-  title: JIRA ticket
 met 0:
   url: http://marion-etten-theater.de/
   title: MET
@@ -102,12 +96,6 @@ kaufland 1:
   - shopping
   examples:
     spiele: Suche auf Kaufland.de nach "spiele"
-mars 1:
-  url: https://gema.atlassian.net/browse/MARS-<ticket>
-  title: MARS ticket
-maui 1:
-  url: https://gema.atlassian.net/browse/MAUI-<ticket>
-  title: MAUI ticket
 pgp 1:
   url: http://keyserver.ubuntu.com/pks/lookup?search=<query>&fingerprint=on&op=index
   title: PGP key search
@@ -133,8 +121,17 @@ user 0:
   url: https://github.com/neubarth/trovu-data-user/edit/master/shortcuts.yml
   title: user
 v 0:
-  url: https://www.vbb.de/fahrinfo/
-  title: vbb
+  url: https://www.bvg.de/de/verbindungen/verbindungssuche
+  title: bvg
+v 2:
+  url: https://www.bvg.de/de/verbindungen/verbindungssuche?timeSel=depart&time=16:23&date=22.07.2025&start=1&SID=A=1@O=<start>&ZID=A=1@O=<ziel>
+  title: bvg
+v 3:
+  url: https://www.bvg.de/de/verbindungen/verbindungssuche?timeSel=depart&time=<startzeit: {type: time}>&date=22.07.2025&start=1&SID=A=1@O=<start>&ZID=A=1@O=<ziel>
+  title: bvg
+v 4:
+  url: https://www.bvg.de/de/verbindungen/verbindungssuche?timeSel=depart&time=<startzeit: {type: time}>&date=<startdatum: {type: date, output: DD.MM.YYYY}>&start=1&SID=A=1@O=<start>&ZID=A=1@O=<ziel>
+  title: bvg
 wa 0:
   url: https://web.whatsapp.com/
   title: Whatsapp
@@ -145,12 +142,6 @@ we 1:
   - weather
   examples:
     berlin: Search for "berlin"
-we3 0:
-  url: http://wind.met.fu-berlin.de/wind/radar/loop_radar200.php
-  title: Wetterradar für Berlin
-we4 0:
-  url: http://wind.met.fu-berlin.de/wind/radar/loop_radarde.php
-  title: Wetterradar für Deutschland
 ww 0:
   url: https://www.wetteronline.de/wettertrend/berlin
   title: Wetteronline für Berlin
