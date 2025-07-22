@@ -121,17 +121,8 @@ user 0:
   url: https://github.com/neubarth/trovu-data-user/edit/master/shortcuts.yml
   title: user
 v 0:
-  url: https://www.bvg.de/de/verbindungen/verbindungssuche
-  title: bvg
-v 2:
-  url: 'https://www.bvg.de/de/verbindungen/verbindungssuche?timeSel=depart&time=16:23&date=22.07.2025&start=1&SID=A=1@O=<start>&ZID=A=1@O=<ziel>'
-  title: bvg
-v 3:
-  url: 'https://www.bvg.de/de/verbindungen/verbindungssuche?timeSel=depart&time=<startzeit: {type: time}>&date=22.07.2025&start=1&SID=A=1@O=<start>&ZID=A=1@O=<ziel>'
-  title: bvg
-v 4:
-  url: 'https://www.bvg.de/de/verbindungen/verbindungssuche?timeSel=depart&time=<startzeit: {type: time}>&date=<startdatum: {type: date, output: DD.MM.YYYY}>&start=1&SID=A=1@O=<start>&ZID=A=1@O=<ziel>'
-  title: bvg
+  url: https://www.vbb.de/fahrinfo/
+  title: VBB
 wa 0:
   url: https://web.whatsapp.com/
   title: Whatsapp
