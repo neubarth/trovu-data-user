@@ -14,7 +14,8 @@ ckk 0:
   url: https://www.chefkoch.de/mein-kochbuch/
   title: "Chefkoch Mein Kochbuch Suche funktioniert nicht mehr :-("
 conf 1:
-  url: https://customer.atlassian.net/wiki/search?text=<query>&spaces=GT
+  url: https://confluence.ard.de/dosearchsite.action?cql=siteSearch+~+%22<query>%22+and+space+%3D+%22NI%22&queryString=<query>
+  title: Confluence
 dlf 0:
   url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
   title: Deutschlandfunk
@@ -69,6 +70,9 @@ intra 1:
 ir 0:
   url: http://www.inforadio.de/livestream/index.html
   title: Inforadio
+jira 1:
+  url: https://jira.zdf.de/jira/browse/SNTWREC-<ticket>
+  title: JIRA
 met 0:
   url: http://marion-etten-theater.de/
   title: MET
