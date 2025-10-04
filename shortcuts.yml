@@ -52,6 +52,9 @@ fb 0:
 g 1:
   url: http://www.google.com/search?q=<query>&ie=utf-8&tbs=li:1
   title: google
+gdr 0:
+  url: https://drive.google.com/drive/my-drive
+  title: Google Drive
 h 0:
   url: https://www.heise.de/newsticker/classic/
   title: Heise
