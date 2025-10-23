@@ -112,6 +112,12 @@ spring 1:
   tags:
   - java
   - programming
+swl:
+  url: http://localhost:8080/swagger-ui/index.html
+swd:
+  url: https://backend.dev.m14.hrnmtech.de/swagger-ui/index.html
+swt:
+  url: https://backend.test.m14.hrnmtech.de/swagger-ui/index.html
 t 0:
   url: https://trovu.net/#github=neubarth
   title: Trovu
