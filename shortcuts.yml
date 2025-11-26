@@ -116,6 +116,8 @@ swl 0:
   url: http://localhost:8080/swagger-ui/index.html
 swd 0:
   url: https://backend.dev.m14.hrnmtech.de/swagger-ui/index.html
+swp 0:
+  url: https://backend.prod.m14.hrnmtech.de/swagger-ui/index.html
 swt 0:
   url: https://backend.test.m14.hrnmtech.de/swagger-ui/index.html
 t 0:
