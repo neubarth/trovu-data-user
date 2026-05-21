@@ -77,8 +77,8 @@ jira 1:
   url: https://jira.zdf.de/jira/browse/SNTWREC-<ticket>
   title: JIRA
 jirame 0:
-  url: https://jira.zdf.de/jira/issues/?jql=project%20%3D%20SNTWREC%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20%22In%20Review%22%2C%20Refinement%2C%20%22In%20Approval%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20created%20DESC
-  title: My open tickets
+  url: https://jira.zdf.de/jira/issues/?jql=project%20%3D%20SNTWREC%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20created%20DESC
+  title: My tickets
 met 0:
   url: http://marion-etten-theater.de/
   title: MET
