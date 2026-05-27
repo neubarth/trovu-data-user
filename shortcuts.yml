@@ -1,6 +1,9 @@
 ab 0:
   url: http://www.antennebrandenburg.de/livestream/index.html
   title: Antenne Brandenburg
+acg 0:
+  url: https://chat.adesso.de/
+  title: Adesso GPT
 ascii 0:
   url: http://www.torsten-horn.de/techdocs/ascii.htm
   title: ASCII-Alphabet
