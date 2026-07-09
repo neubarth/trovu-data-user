@@ -158,5 +158,5 @@ ww 0:
   url: https://www.wetteronline.de/wettertrend/berlin
   title: Wetteronline für Berlin
 x 0:
-  url: https://meinaccount.gmx.net/
+  url: https://auth.gmx.net/login?prompt=none&authcode-context=FRwJY8rlgb
   title: GMX
