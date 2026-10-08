@@ -76,6 +76,9 @@ intra 1:
 ir 0:
   url: http://www.inforadio.de/livestream/index.html
   title: Inforadio
+jira 0:
+  url: https://jira.zdf.de/jira/secure/RapidBoard.jspa?rapidView=1199
+  title: JIRA board
 jira 1:
   url: https://jira.zdf.de/jira/browse/SNTWREC-<ticket>
   title: JIRA
