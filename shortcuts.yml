@@ -4,6 +4,9 @@ ab 0:
 acg 0:
   url: https://chat.adesso.de/
   title: Adesso GPT
+ard 1:
+  url: https://jira.zdf.de/jira/browse/ARD-<query>
+  title: ARD JIRA
 ascii 0:
   url: http://www.torsten-horn.de/techdocs/ascii.htm
   title: ASCII-Alphabet
